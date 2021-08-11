@@ -1,0 +1,1 @@
+&cabeca=cabecaMarcelo.swf&nome=Marcelo&arma=Foice&altura=1,75&velocidade=10,271&forca=11,624&forcaarma=20,715

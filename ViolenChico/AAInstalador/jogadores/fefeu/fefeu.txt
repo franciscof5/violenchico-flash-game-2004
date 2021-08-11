@@ -1,0 +1,1 @@
+&cabeca=cabecaFefeu.swf&nome=AndreFefeu&arma=Kareta&altura=1,84&velocidade=9,456&forca=16,021&forcaarma=17,378

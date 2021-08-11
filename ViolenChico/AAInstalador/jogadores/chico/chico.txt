@@ -1,0 +1,1 @@
+&cabeca=cabecaChico.swf&nome=Francisco&arma=Vassoura&altura=1,88&velocidade=12,457&forca=10,214&forcaarma=20,241

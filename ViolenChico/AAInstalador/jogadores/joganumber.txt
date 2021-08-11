@@ -1,0 +1,1 @@
+numeroDeJogadores=10&jogador1=chico&jogador2=fefeu&jogador3=reginaldo&jogador4=gabriel&jogador5=palomo&jogador6=junior&jogador7=hugo&jogador8=marcelo&jogador9=marinho&jogador10=pikachu

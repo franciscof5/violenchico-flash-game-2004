@@ -1,0 +1,1 @@
+&cabeca=cabecaReginaldo.swf&nome=Reginaldo&arma=Pirulito&altura=1,82&velocidade=12,487&forca=10,219&forcaarma=20,874

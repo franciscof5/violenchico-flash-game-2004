@@ -1,0 +1,1 @@
+&cabeca=cabecaPikachu.swf&nome=Pikachu&arma=Raio&altura=0,55&velocidade=16,457&forca=4,214&forcaarma=30,241

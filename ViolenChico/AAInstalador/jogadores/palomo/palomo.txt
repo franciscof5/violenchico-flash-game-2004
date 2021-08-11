@@ -1,0 +1,1 @@
+&cabeca=cabecaPalomo.swf&nome=Raphael&arma=Rolo&altura=1,84&velocidade=12,214&forca=08,357&forcaarma=24,842

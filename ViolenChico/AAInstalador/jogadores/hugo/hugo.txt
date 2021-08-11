@@ -1,0 +1,1 @@
+&cabeca=cabecaHugo.swf&nome=Hugo&arma=Garrafa&altura=1,83&velocidade=14,437&forca=05,357&forcaarma=23,842

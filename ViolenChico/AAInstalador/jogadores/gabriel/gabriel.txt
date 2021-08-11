@@ -1,0 +1,1 @@
+&cabeca=cabecaGabriel.swf&nome=Gabriel&arma=Guarda-Chuva&altura=1,65&velocidade=09,547&forca=08,985&forcaarma=25,724

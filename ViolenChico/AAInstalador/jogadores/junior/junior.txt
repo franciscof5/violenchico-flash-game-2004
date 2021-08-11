@@ -1,0 +1,1 @@
+&cabeca=cabecaJunior.swf&nome=Juninho&arma=GilletteMach3&altura=1,75&velocidade=10,084&forca=11,987&forcaarma=22,245
